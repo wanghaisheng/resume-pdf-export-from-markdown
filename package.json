@@ -12,7 +12,6 @@
     "codemirror": "^5.65.19",
     "github-markdown-css": "^5.8.1",
     "highlight.js": "^11.11.1",
-    "nonaction": "0.0.5",
     "normalize.css": "8.0.1",
     "react": "^19.1.1",
     "react-codemirror2": "^8.0.1",
